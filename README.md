@@ -1,11 +1,9 @@
-Hej there 👋 just call me Theo!
+👋 just call me Theo!
 <div id="header" align="">
   <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" width="100"/>
 </div>
 Well yeah, I found out how to use the readme file so here we go!<br>---------------------------------------------------------------------------- <br>
 📦Toolbox Webdev <br> <br>
-
-
 <div>
   &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -24,14 +22,6 @@ Well yeah, I found out how to use the readme file so here we go!<br>------------
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   &nbsp;
 </div>
-
 ---
-
 ###  My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheoToni&theme=dark&background=000000)](https://git.io/streak-stats)
-
-
-  
-
-
-
