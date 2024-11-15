@@ -1,4 +1,4 @@
-👋 just call me Theo!
+Hej there 👋 just call me Theo!
 <div id="header" align="">
   <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" width="100"/>
 </div>
